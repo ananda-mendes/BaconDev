@@ -1,2 +1,3 @@
-# BaconDev
-Site para organização de tarefas desenvolvidas com ReactJS e Node.js para capacitação do Bacon Dev, realizado pela Voluta Soluções Digitais.
+## BaconDev
+
+Website for organizing tasks developed with React.js and Node.js for training Voluta Soluções Digitais members.
